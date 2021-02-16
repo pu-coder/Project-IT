@@ -1,3 +1,3 @@
 # Project-IT
-Sample Nav Webpage (Kashmirir Festivals).
+Sample Nav Webpage (Kashmiri Festivals).
 Used: HTML, CSS, Bootstrap and JavaScript.
