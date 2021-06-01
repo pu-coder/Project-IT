@@ -25,6 +25,10 @@
   text-decoration: none;
 }
 
+.footer-text{
+  text-align: center;
+}
+
 /* The dropdown container */
 .dropdown {
   float: left;
